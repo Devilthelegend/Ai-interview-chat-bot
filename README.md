@@ -2,7 +2,7 @@
 
 ## Description
 
-In the dynamic landscape of professional recruitment, the demand for skilled Data Analysts is on the rise. To bridge the gap between aspiring candidates and the evolving expectations of employers, we aim to develop an innovative AI-powered interview preparation tool called ReX. ReX is designed to empower users with the necessary skills and confidence to excel in Data Analyst interviews.
+In the dynamic landscape of professional recruitment, the demand for skilled Data Analysts is on the rise. To bridge the gap between aspiring candidates and the evolving expectations of employers, we aim to develop an innovative AI-powered interview preparation tool called Ai-interview-chat-bot. Ai-interview-chat-bot is designed to empower users with the necessary skills and confidence to excel in Data Analyst interviews.
 
 ## Features
 
